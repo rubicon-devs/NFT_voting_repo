@@ -20,5 +20,8 @@
       "memory": 1024,
       "maxDuration": 10
     }
+  },
+  "env": {
+    "VITE_API_URL": "@vite_api_url"
   }
 }
